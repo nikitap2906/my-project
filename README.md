@@ -1,3 +1,3 @@
 # my-project
-this is my first Gita repository 
+this is my first Gita repository. 
 Author - Nikita patidar
